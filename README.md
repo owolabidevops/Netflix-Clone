@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+![netflix](https://user-images.githubusercontent.com/48913682/94779995-ab268f80-03bf-11eb-8c32-9ec20036326b.PNG)
 ## Available Scripts
 
 In the project directory, you can run:
